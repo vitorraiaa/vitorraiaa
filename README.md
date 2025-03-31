@@ -1,6 +1,6 @@
 ### Hello!
 ## About Me:
-👨‍💻 Name: Vitor<br>🎓 Education: Computer Science @Insper<br>
+👨‍💻 Name: Vitor Raia<br>🎓 Education: Computer Science @Insper<br>
 
 
 ## 🌐 Socials:
